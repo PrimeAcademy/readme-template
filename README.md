@@ -65,7 +65,7 @@ List technologies and frameworks here
 _Note, include this only if you have a license file. GitHub will generate one for you if you want!_
 
 ## Acknowledgement
-Thanks to [Prime Digital Academy](www.primeacademy.io) in Kansas City who equipped and helped me to make this application a reality. (Thank your people)
+Thanks to [Prime Digital Academy](www.primeacademy.io) who equipped and helped me to make this application a reality. (Thank your people)
 
 ## Support
 If you have suggestions or issues, please email me at [youremail@whatever.com](www.google.com)
